@@ -1,0 +1,16 @@
+lệnh git init -- Tác dụng : Khởi tạo 1 git repository 1 project mới hoặc đã có.
+lệnh git config -- Tác dụng : Để set user name và email của bạn trong main configuration file.
+lệnh git clone -- Tác dụng: Copy 1 git repository từ remote source.
+lệnh git status -- Tác dụng: Để check trạng thái của những file bạn đã thay đổi trong thư mục làm việc.
+lệnh git add -- Tác dụng: Thêm thay đổi đến stage/index trong thư mục làm việc.
+lệnh git commit -- Tác dụng: commit nghĩa là một action để Git lưu lại một snapshot của các sự thay đổi trong thư mục
+                            làm việc. Và các tập tin, thư mục được thay đổi đã phải nằm trong Staging Area. 
+                            Mỗi lần commit nó sẽ được lưu lại lịch sử chỉnh sửa của code kèm theo tên và địa chỉ email
+                            của người commit. Ngoài ra trong Git bạn cũng có thể khôi phục lại tập tin trong lịch sử
+                            commit của nó để chia cho một branch khác, vì vậy bạn sẽ dễ dàng khôi phục lại các thay đổi
+                            trước đó.
+lệnh git push/pull -- Tác dụng: Push hoặc Pull các thay đổi đến remote. Nếu bạn đã added và committed các thay đổi và 
+                                bạn muốn đẩy nó lên hoặc remote của bạn đã update và bạn apply tất cả thay đổi đó 
+                                trên code của mình.
+lệnh git branch -- Tác dụng: liệt kê tất cả các branch (nhánh).
+lệnh git remote -- Tác dụng: Để check remote/source bạn có hoặc add thêm remote
